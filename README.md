@@ -6,7 +6,7 @@ Boost your 3D game development with KayuSwiftKit, a robust Unity plugin featurin
 
 - **Efficient Code Snippets:** Dive into a curated set of optimized code snippets designed to speed up your 3D game development process.
 
-- **Customization Options:** Easily customize the appearance of your game elements with flexible configuration options, allowing you to adapt them to the specific requirements of your project.
+- **User-Friendly Design:** KayuSwiftKit is crafted with simplicity in mind, ensuring an easy-to-use experience for developers of all levels.
 
 ## Getting Started
 
