@@ -16,7 +16,7 @@ Boost your 3D game development with KayuSwiftKit, a robust Unity plugin featurin
 
 ## Releases
 
-- [KayuSwiftKit Version 0.1](https://github.com/kayubakar0/KayuSwiftKit/releases/tag/Stable)
+- [KayuSwiftKit Stable](https://github.com/kayubakar0/KayuSwiftKit/releases/tag/Stable)
 ---
 
 Feel the swiftness of game development with KayuSwiftKit – your key to efficient and visually stunning 3D games!
