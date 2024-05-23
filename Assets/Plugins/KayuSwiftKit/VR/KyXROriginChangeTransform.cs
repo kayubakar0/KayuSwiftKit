@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Plugins.KayuSwiftKit.VR
+namespace KayuSwiftKit.VR
 {
     // Code from Youtube Valem Tutorials
     public class KyXROriginChangeTransform : MonoBehaviour

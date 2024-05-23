@@ -3,7 +3,7 @@ using System.Collections;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
-namespace Plugins.KayuSwiftKit.Core
+namespace KayuSwiftKit.Core
 {
     public class KyChangeSceneFillType : MonoBehaviour
     {

@@ -1,7 +1,7 @@
 using UnityEngine;
 using System;
 
-namespace Plugins.KayuSwiftKit.Localization
+namespace KayuSwiftKit.Localization
 {
     public class KyVoiceOverData : MonoBehaviour
     {

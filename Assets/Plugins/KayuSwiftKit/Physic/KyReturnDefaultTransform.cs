@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Plugins.KayuSwiftKit.Physics
+namespace KayuSwiftKit.Physic
 {
     public class KyReturnDefaultTransform : MonoBehaviour
     {

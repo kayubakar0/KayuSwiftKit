@@ -3,7 +3,7 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace Plugins.KayuSwiftKit.Core
+namespace KayuSwiftKit.Core
 {
     public class KyChangeSceneLoopType : MonoBehaviour
     {

@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.Networking;
 using System.Collections;
 
-namespace Plugins.KayuSwiftKit.Core
+namespace KayuSwiftKit.Core
 {
     public class KySimpleCallApi : MonoBehaviour
     {

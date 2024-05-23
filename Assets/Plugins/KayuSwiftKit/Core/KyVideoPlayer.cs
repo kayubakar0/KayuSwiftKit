@@ -4,7 +4,7 @@ using UnityEngine.Events;
 using UnityEngine.UI;
 using UnityEngine.Video;
 
-namespace Plugins.KayuSwiftKit.Core
+namespace KayuSwiftKit.Core
 {
     // Script from ahmadfzn
     public class KyVideoPlayer : MonoBehaviour
