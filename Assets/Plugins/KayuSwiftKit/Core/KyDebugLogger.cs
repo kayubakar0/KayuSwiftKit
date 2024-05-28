@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Plugins.KayuSwiftKit.Core
+namespace KayuSwiftKit.Core
 {
     public static class KyDebugLogger
     {

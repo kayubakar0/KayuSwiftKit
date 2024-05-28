@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Plugins.KayuSwiftKit.Localization
+namespace KayuSwiftKit.Localization
 {
     public class KyLanguageData : MonoBehaviour
     {

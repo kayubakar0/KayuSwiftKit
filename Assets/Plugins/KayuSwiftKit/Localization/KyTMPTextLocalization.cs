@@ -1,8 +1,8 @@
-using Plugins.KayuSwiftKit.Core;
+using KayuSwiftKit.Core;
 using TMPro;
 using UnityEngine;
 
-namespace Plugins.KayuSwiftKit.Localization
+namespace KayuSwiftKit.Localization
 {
     // This script is useful for overriding tmp text for easy implementing localization
     public class KyTMPTextLocalization : MonoBehaviour

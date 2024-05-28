@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Plugins.KayuSwiftKit.Core
+namespace KayuSwiftKit.Line_Renderer
 {
     public class KyLineRendererBetweenTwoObject : MonoBehaviour
     {

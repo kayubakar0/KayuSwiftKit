@@ -23,3 +23,16 @@ Add:
 
 /VR
 ---KyXROriginChangeTransform
+
+Version 0.11
+
+Add:
+/Core
+---KyPanelFollowCamera
+---KySplashScreenController
+---KyChangeSceneLoopType
+---KyVideoPlayer
+
+Update:
+/Core
+---KyAsyncChangeScene.cs change name to KyChangeSceneFillType.cs

@@ -1,9 +1,9 @@
 using System.Collections.Generic;
-using Plugins.KayuSwiftKit.Core;
+using KayuSwiftKit.Core;
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace Plugins.KayuSwiftKit.Physics
+namespace KayuSwiftKit.Physic
 {
     public class PyMultiObjectSocket : MonoBehaviour
     {

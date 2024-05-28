@@ -3,9 +3,9 @@ using System.Collections;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
-namespace Plugins.KayuSwiftKit.Core
+namespace KayuSwiftKit.Core
 {
-    public class KyAsyncChangeScene : MonoBehaviour
+    public class KyChangeSceneFillType : MonoBehaviour
     {
         [Tooltip("The panel where the loading fill image is located")]
         [SerializeField] private GameObject loadingPanel;
