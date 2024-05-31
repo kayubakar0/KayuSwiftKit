@@ -6,10 +6,12 @@ namespace KayuSwiftKit.Core
     {
         public static void LogDebugColor(string message, Color color)
         {
+#if UNITY_EDITOR
             string hexColor = ColorUtility.ToHtmlStringRGB(color);
             string coloredMessage = $"<color=#{hexColor}>{message}</color>";
 
             Debug.Log(coloredMessage);
+#endif
         }
     }
 }
